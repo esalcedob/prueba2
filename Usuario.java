@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
  * clase para revisar ciclos
  * 
  * @author (otra prueba) 
- * @version (a version number or a date)
+ * @version 1.0-2022
  */
 public class Usuario
 {
