@@ -2,7 +2,7 @@
 /**
  * Write a description of class Prog here.
  * 
- * @author (your name) 
+ * @author Erlington Salcedo 
  * @version (a version number or a date)
  * una prueba
  */
